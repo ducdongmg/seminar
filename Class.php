@@ -1,7 +1,8 @@
 <?php namespace Scrutinizer;
 
-class ClassName {
-  public function whatIsScrutinizer() {
-    return 'Just a CI tool';
+class className {
+	private $a;
+  public function wh() {
+    return 'Just a CI tool'
   }
 }
